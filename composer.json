@@ -1,0 +1,11 @@
+{
+    "name": "jepi/exception",
+    "authors": [
+        {
+            "name": "Jepi Humet",
+            "email": "jepihumet@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
