@@ -1,7 +1,7 @@
 <?php
 
 /**
- * JepiException.php
+ * Exception.php
  *
  * @package     JepiFW
  * @author      Jepi Humet Alsius <jepihumet@gmail.com>
@@ -12,7 +12,7 @@ namespace Jepi\Exception;
 
 use Jepi\IO\Response;
 
-class JepiException extends \Exception
+class Exception extends \Exception
 {
     protected $exceptionType = "Exception";
 
